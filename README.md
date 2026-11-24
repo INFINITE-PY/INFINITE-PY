@@ -1,157 +1,148 @@
-# ⚡ BAN KAI — PYTHON BACKEND DEVELOPER
+# ⚡ S MUXAMMAD
+### PYTHON DEVELOPER | BACKEND ENGINEER | UI/UX DESIGNER
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:09001A,50:5B21B6,100:00D4FF&height=200&section=header&text=BAN%20KAI&fontSize=65&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=PYTHON%20BACKEND%20DEVELOPER&descAlignY=60&descSize=18" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:05000D,30:4C1D95,70:7C3AED,100:00D4FF&height=230&section=header&text=S%20MUXAMMAD&fontSize=65&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=CODE%20%7C%20DESIGN%20%7C%20CREATE&descAlignY=60&descSize=20" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=Building+modern+web+applications;Python+%7C+Django+%7C+PostgreSQL;Backend+Development+%26+Telegram+Bots;Turning+ideas+into+working+products" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=900&color=00D4FF&center=true&vCenter=true&width=650&lines=Python+%26+Django+Developer;Backend+%26+API+Development;Telegram+Bot+Developer;UI%2FUX+Designer;Turning+Ideas+Into+Digital+Products" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/BanKai-Senbonzakura-Kageyoshi">
-    <img src="https://img.shields.io/badge/GitHub-Profile-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Projects-00D4FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PYTHON-DEVELOPER-7C3AED?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/BACKEND-ENGINEER-00D4FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/UI%2FUX-DESIGNER-EC4899?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
 ---
 
-## 👨‍💻 ABOUT ME
+## 👨‍💻 SYSTEM PROFILE
 
-```python
-class Developer:
-    def __init__(self):
-        self.name = "Ban Kai"
-        self.role = "Python Backend Developer"
-        self.experience = "3 years of practical experience"
-        self.teamwork = "Team development experience"
+<p align="center">
+  <img src="https://img.shields.io/badge/NAME-S%20MUXAMMAD-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/EXPERIENCE-3%20YEARS-00D4FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TEAMWORK-ENABLED-EC4899?style=for-the-badge" />
+</p>
 
-        self.languages = ["Python", "HTML", "CSS", "SQL"]
-
-        self.frameworks = [
-            "Django",
-            "Tailwind CSS",
-            "aiogram 3"
-        ]
-
-        self.databases = ["PostgreSQL"]
-        self.tools = ["Git", "GitHub"]
-
-        self.focus = [
-            "Backend Development",
-            "Web Applications",
-            "Telegram Bots",
-            "API Integration"
-        ]
-
-    def say_hello(self):
-        return "Let's build something awesome!"
-```
-
-I'm a Python developer focused on building functional web applications, backend systems and Telegram bots.
-
-I enjoy solving problems, learning new technologies and turning ideas into real products.
+<p align="center">
+  <b>Building digital products through code, creativity and technology.</b>
+</p>
 
 ---
 
-## ⚙️ TECH STACK
+## ⚡ TECH STACK & SKILLS
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,html,css,tailwind,postgres,git,github&theme=dark" />
+### 💻 Programming & Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi&theme=dark" />
 </p>
 
-| Category | Technologies |
-|---|---|
-| Language | Python |
-| Backend | Django |
-| Frontend | HTML, CSS, Tailwind CSS |
-| Database | PostgreSQL, SQL |
-| API | REST API (Basic) |
-| Telegram | aiogram 3 |
-| Tools | Git, GitHub |
+`Python` `Django` `FastAPI` `REST API` `SQL`
+
+### 🎨 Frontend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,scss,tailwind&theme=dark" />
+</p>
+
+`HTML` `CSS` `SCSS` `Tailwind CSS`
+
+### 🎭 UI/UX & Design
+
+<p>
+  <img src="https://skillicons.dev/icons?i=figma&theme=dark" />
+</p>
+
+`Figma` `UI/UX Design` `Prototyping`
+
+### 🤖 Telegram & Chatbots
+
+`Telegram Bots` `Chatbots` `aiogram`
+
+### 🗄️ Database & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,git,github&theme=dark" />
+</p>
+
+`PostgreSQL` `SQL` `Git` `GitHub`
+
+### 🤝 Collaboration
+
+`Teamwork` `Collaborative Development`
 
 ---
 
 ## 🚀 FEATURED PROJECTS
 
-### 🎬 01 — YouTube Clone
+### 🎬 YouTube Clone
 
-**A video-sharing platform built with Django.**
+A video-sharing platform developed with Django.
 
-- User registration and authentication
+- User authentication
 - Video uploading and playback
-- Likes and channel subscriptions
+- Likes and subscriptions
 - Search functionality
 - User profiles
 - Similar video recommendations
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-</p>
+**Technologies:** Python, Django, HTML, Tailwind CSS
 
-🔗 **[VIEW PROJECT ON GITHUB](https://github.com/BanKai-Senbonzakura-Kageyoshi/YouTube_py)**
+🔗 [VIEW PROJECT](https://github.com/INFINITE-PY/YouTube_py)
 
----
+### 🌐 Social Network
 
-### 🌐 02 — Social Network
-
-**A social networking application developed with Django.**
+A social networking application built with Django.
 
 - User registration and authentication
 - Create, edit and delete posts
-- Personal user profiles
-- Follow and unfollow system
+- User profiles
+- Follow / Unfollow system
 - Followers and following lists
-- Post ownership and access checks
+- Post ownership checks
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-</p>
-
-🔗 **[VIEW PROJECT ON GITHUB](https://github.com/BanKai-Senbonzakura-Kageyoshi/qqq)**
+🔗 [VIEW PROJECT](https://github.com/INFINITE-PY/qqq)
 
 ---
 
-## 📊 GITHUB ANALYTICS
+## 📊 GITHUB STATISTICS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BanKai-Senbonzakura-Kageyoshi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=09001A&title_color=00D4FF&icon_color=8B5CF6" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BanKai-Senbonzakura-Kageyoshi&layout=compact&theme=tokyonight&hide_border=true&bg_color=09001A&title_color=00D4FF" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=INFINITE-PY&show_icons=true&theme=tokyonight&hide_border=true&bg_color=09001A&title_color=00D4FF&icon_color=8B5CF6" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=INFINITE-PY&layout=compact&theme=tokyonight&hide_border=true&bg_color=09001A&title_color=00D4FF" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=BanKai-Senbonzakura-Kageyoshi&theme=tokyonight&hide_border=true&background=09001A&ring=8B5CF6&fire=00D4FF&currStreakLabel=00D4FF" width="75%" />
+  <img src="https://streak-stats.demolab.com?user=INFINITE-PY&theme=tokyonight&hide_border=true&background=09001A&ring=8B5CF6&fire=00D4FF&currStreakLabel=00D4FF" width="75%" />
 </p>
 
 ---
 
 ## 🎯 CURRENT FOCUS
 
-- Building better backend architectures
-- Improving Django development skills
-- Working with databases and APIs
-- Developing Telegram bots with aiogram 3
-- Creating useful products for real users
+- Building scalable backend applications
+- Developing APIs with Django and FastAPI
+- Creating Telegram bots and chatbots
+- Improving UI/UX and prototyping skills
+- Working with databases and modern frontend tools
+- Building useful digital products
 
 ---
 
-## 📡 CONNECT WITH ME
-
 <p align="center">
-  <a href="https://github.com/BanKai-Senbonzakura-Kageyoshi">
-    <img src="https://img.shields.io/badge/GitHub-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=100&text=S%20MUXAMMAD&fontSize=40&fontColor=00D4FF&animation=fadeIn" width="100%" />
 </p>
 
 <p align="center">
-  <i>“Code. Create. Improve. Repeat.”</i>
+  <b>「 THINK. DESIGN. CODE. CREATE. 」</b>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:5B21B6,100:09001A&height=120&section=footer" width="100%" />
+  <i>INFINITE-PY © 2026</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:5B21B6,100:05000D&height=120&section=footer" width="100%" />
 </p>
