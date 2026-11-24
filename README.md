@@ -1,148 +1,159 @@
-# ⚡ S MUXAMMAD
-### PYTHON DEVELOPER | BACKEND ENGINEER | UI/UX DESIGNER
+ <div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:05000D,30:4C1D95,70:7C3AED,100:00D4FF&height=230&section=header&text=S%20MUXAMMAD&fontSize=65&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=CODE%20%7C%20DESIGN%20%7C%20CREATE&descAlignY=60&descSize=20" width="100%" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:5B2EFF,100:00E5FF&height=200&section=header&text=S%20MUXAMMAD&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=PYTHON%20DEVELOPER%20%7C%20BACKEND%20ENGINEER%20%7C%20UI%2FUX%20DESIGNER&descSize=14&descAlignY=55" width="100%" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=900&color=00D4FF&center=true&vCenter=true&width=650&lines=Python+%26+Django+Developer;Backend+%26+API+Development;Telegram+Bot+Developer;UI%2FUX+Designer;Turning+Ideas+Into+Digital+Products" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=Building+Digital+Experiences;Python+%26+Django+Developer;Backend+%7C+Frontend+%7C+UI%2FUX;Turning+Ideas+Into+Reality" />
 
-<p align="center">
-  <img src="https://img.shields.io/badge/PYTHON-DEVELOPER-7C3AED?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/BACKEND-ENGINEER-00D4FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/UI%2FUX-DESIGNER-EC4899?style=for-the-badge&logo=figma&logoColor=white" />
-</p>
+<br/>
+
+<img src="https://img.shields.io/badge/PYTHON_DEVELOPER-0D1117?style=for-the-badge&logo=python&logoColor=00E5FF" />
+<img src="https://img.shields.io/badge/BACKEND_ENGINEER-0D1117?style=for-the-badge&logo=django&logoColor=BC13FE" />
+<img src="https://img.shields.io/badge/UI%2FUX_DESIGNER-0D1117?style=for-the-badge&logo=figma&logoColor=00E5FF" />
+
+</div>
 
 ---
 
-## 👨‍💻 SYSTEM PROFILE
+## `01` // SYSTEM PROFILE
 
-<p align="center">
-  <img src="https://img.shields.io/badge/NAME-S%20MUXAMMAD-7C3AED?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/EXPERIENCE-3%20YEARS-00D4FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/TEAMWORK-ENABLED-EC4899?style=for-the-badge" />
-</p>
+<div align="center">
 
-<p align="center">
-  <b>Building digital products through code, creativity and technology.</b>
-</p>
+| SYSTEM | STATUS |
+|:---|:---|
+| **NAME** | S MUXAMMAD |
+| **EXPERIENCE** | 3 YEARS |
+| **ROLE** | PYTHON DEVELOPER |
+| **SPECIALIZATION** | BACKEND & WEB DEVELOPMENT |
+| **DESIGN** | UI/UX & PROTOTYPING |
+| **TEAMWORK** | ENABLED |
 
----
+</div>
 
-## ⚡ TECH STACK & SKILLS
+> Building digital products through code, creativity and technology.
 
-### 💻 Programming & Backend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi&theme=dark" />
-</p>
-
-`Python` `Django` `FastAPI` `REST API` `SQL`
-
-### 🎨 Frontend Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,scss,tailwind&theme=dark" />
-</p>
-
-`HTML` `CSS` `SCSS` `Tailwind CSS`
-
-### 🎭 UI/UX & Design
-
-<p>
-  <img src="https://skillicons.dev/icons?i=figma&theme=dark" />
-</p>
-
-`Figma` `UI/UX Design` `Prototyping`
-
-### 🤖 Telegram & Chatbots
-
-`Telegram Bots` `Chatbots` `aiogram`
-
-### 🗄️ Database & Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,git,github&theme=dark" />
-</p>
-
-`PostgreSQL` `SQL` `Git` `GitHub`
-
-### 🤝 Collaboration
-
-`Teamwork` `Collaborative Development`
+I develop web applications, backend systems, Telegram bots and modern user interfaces. I enjoy turning ideas into functional digital products and working with teams to build useful solutions.
 
 ---
 
-## 🚀 FEATURED PROJECTS
+## `02` // TECH STACK
 
-### 🎬 YouTube Clone
+### Backend Development
 
-A video-sharing platform developed with Django.
+<img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,sqlite" />
 
-- User authentication
-- Video uploading and playback
-- Likes and subscriptions
-- Search functionality
-- User profiles
-- Similar video recommendations
+### Frontend Development
 
-**Technologies:** Python, Django, HTML, Tailwind CSS
+<img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js" />
 
-🔗 [VIEW PROJECT](https://github.com/INFINITE-PY/YouTube_py)
+### Design & Tools
 
-### 🌐 Social Network
+<img src="https://skillicons.dev/icons?i=figma,git,github,vscode" />
 
-A social networking application built with Django.
+### Additional Skills
 
-- User registration and authentication
-- Create, edit and delete posts
-- User profiles
-- Follow / Unfollow system
-- Followers and following lists
-- Post ownership checks
-
-🔗 [VIEW PROJECT](https://github.com/INFINITE-PY/qqq)
+![REST API](https://img.shields.io/badge/REST_API-0D1117?style=flat-square&logo=fastapi&logoColor=00E5FF)
+![SQL](https://img.shields.io/badge/SQL-0D1117?style=flat-square&logo=postgresql&logoColor=BC13FE)
+![Telegram Bots](https://img.shields.io/badge/Telegram_Bots-0D1117?style=flat-square&logo=telegram&logoColor=00E5FF)
+![aiogram](https://img.shields.io/badge/aiogram-0D1117?style=flat-square&logo=telegram&logoColor=BC13FE)
+![UI UX](https://img.shields.io/badge/UI%2FUX-0D1117?style=flat-square&logo=figma&logoColor=00E5FF)
+![Prototyping](https://img.shields.io/badge/Prototyping-0D1117?style=flat-square&logo=figma&logoColor=BC13FE)
+![Teamwork](https://img.shields.io/badge/Teamwork-0D1117?style=flat-square&logo=github&logoColor=00E5FF)
 
 ---
 
-## 📊 GITHUB STATISTICS
+## `03` // FEATURED PROJECTS
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=INFINITE-PY&show_icons=true&theme=tokyonight&hide_border=true&bg_color=09001A&title_color=00D4FF&icon_color=8B5CF6" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=INFINITE-PY&layout=compact&theme=tokyonight&hide_border=true&bg_color=09001A&title_color=00D4FF" height="165" />
-</p>
+### ◈ BACKEND & PYTHON PROJECTS
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=INFINITE-PY&theme=tokyonight&hide_border=true&background=09001A&ring=8B5CF6&fire=00D4FF&currStreakLabel=00D4FF" width="75%" />
-</p>
+| # | PROJECT | DESCRIPTION | TECHNOLOGIES |
+|:--:|:---|:---|:---|
+| 01 | **NeoBank** | Banking-themed web application | Python · Django |
+| 02 | **Careline** | Medical navigator and pharmacy catalog with doctor profiles, orders and AI-assisted specialty navigation | Python · Django · Gemini |
+| 03 | **Tg-bot** | Telegram bot project | Telegram Bot |
+| 04 | **Terra** | Restaurant catalog with menus, table reservations, interactive map and owner dashboard | Django · SQLite · Tailwind · Leaflet |
+| 05 | **CRM** | Customer relationship management web project | Python · Django |
+| 06 | **Mix-tj** | Django web application | Python · Django |
+
+<div align="center">
+
+[![NeoBank](https://img.shields.io/badge/VIEW_NEO_BANK-0D1117?style=for-the-badge&logo=github&logoColor=00E5FF)](https://github.com/INFINITE-PY/NeoBank)
+[![Careline](https://img.shields.io/badge/VIEW_CARELINE-0D1117?style=for-the-badge&logo=github&logoColor=BC13FE)](https://github.com/INFINITE-PY/Careline)
+[![Tg-bot](https://img.shields.io/badge/VIEW_TG--BOT-0D1117?style=for-the-badge&logo=telegram&logoColor=00E5FF)](https://github.com/INFINITE-PY/Tg-bot)
+
+[![Terra](https://img.shields.io/badge/VIEW_TERRA-0D1117?style=for-the-badge&logo=github&logoColor=00E5FF)](https://github.com/INFINITE-PY/projekt_terra_beta_version)
+[![CRM](https://img.shields.io/badge/VIEW_CRM-0D1117?style=for-the-badge&logo=github&logoColor=BC13FE)](https://github.com/INFINITE-PY/CRM)
+[![Mix-tj](https://img.shields.io/badge/VIEW_MIX--TJ-0D1117?style=for-the-badge&logo=github&logoColor=00E5FF)](https://github.com/INFINITE-PY/Mix-tj)
+
+</div>
+
+### ◈ FRONTEND & WEB PROJECTS
+
+| # | PROJECT | DESCRIPTION | LIVE DEMO |
+|:--:|:---|:---|:---:|
+| 07 | **CREATEX** | Construction company website with services, projects and contact sections | [LIVE](https://infinite-py.github.io/CREATEX/) |
+| 08 | **Catalyst Analytics** | Data analytics and AI consulting landing page | [LIVE](https://infinite-py.github.io/Catalyst-Analytics/) |
+| 09 | **NO-DOORS** | E-commerce storefront for mobile phone accessories and spare parts | [LIVE](https://infinite-py.github.io/NO-DOORS/) |
+| 10 | **OkeyPost** | Parcel delivery and international shopping website | [LIVE](https://infinite-py.github.io/OkeyPost/) |
+| 11 | **Xotel.ink** | Web project | [REPO](https://github.com/INFINITE-PY/Xotel.ink) |
+| 12 | **INNOMA.VC** | IT accelerator and international business landing page | [LIVE](https://infinite-py.github.io/INNOMA.VC/) |
+| 13 | **Cootage** | Hotel and nature retreat website with room listings and reservation information | [LIVE](https://infinite-py.github.io/Cootage/) |
+
+<div align="center">
+
+[![CREATEX](https://img.shields.io/badge/CREATEX-REPOSITORY-0D1117?style=for-the-badge&logo=github&logoColor=00E5FF)](https://github.com/INFINITE-PY/CREATEX)
+[![Catalyst](https://img.shields.io/badge/CATALYST-REPOSITORY-0D1117?style=for-the-badge&logo=github&logoColor=BC13FE)](https://github.com/INFINITE-PY/Catalyst-Analytics)
+[![NO-DOORS](https://img.shields.io/badge/NO--DOORS-REPOSITORY-0D1117?style=for-the-badge&logo=github&logoColor=00E5FF)](https://github.com/INFINITE-PY/NO-DOORS)
+
+[![OkeyPost](https://img.shields.io/badge/OKEYPOST-REPOSITORY-0D1117?style=for-the-badge&logo=github&logoColor=BC13FE)](https://github.com/INFINITE-PY/OkeyPost)
+[![Xotel](https://img.shields.io/badge/XOTEL.INK-REPOSITORY-0D1117?style=for-the-badge&logo=github&logoColor=00E5FF)](https://github.com/INFINITE-PY/Xotel.ink)
+[![INNOMA](https://img.shields.io/badge/INNOMA.VC-REPOSITORY-0D1117?style=for-the-badge&logo=github&logoColor=BC13FE)](https://github.com/INFINITE-PY/INNOMA.VC)
+[![Cootage](https://img.shields.io/badge/COOTAGE-REPOSITORY-0D1117?style=for-the-badge&logo=github&logoColor=00E5FF)](https://github.com/INFINITE-PY/Cootage)
+
+</div>
 
 ---
 
-## 🎯 CURRENT FOCUS
+## `04` // GITHUB ANALYTICS
 
-- Building scalable backend applications
-- Developing APIs with Django and FastAPI
-- Creating Telegram bots and chatbots
-- Improving UI/UX and prototyping skills
-- Working with databases and modern frontend tools
-- Building useful digital products
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=INFINITE-PY&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=BC13FE&text_color=FFFFFF&count_private=true" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=INFINITE-PY&layout=compact&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=FFFFFF" />
+
+<br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=INFINITE-PY&theme=transparent&hide_border=true&ring=BC13FE&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=FFFFFF&dates=888888" />
+
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=100&text=S%20MUXAMMAD&fontSize=40&fontColor=00D4FF&animation=fadeIn" width="100%" />
-</p>
+## `05` // CURRENT FOCUS
 
-<p align="center">
-  <b>「 THINK. DESIGN. CODE. CREATE. 」</b>
-</p>
+- Building scalable backend applications with Python and Django.
+- Developing REST API integrations.
+- Creating Telegram bots and automation tools.
+- Improving frontend development skills.
+- Designing clean and intuitive UI/UX experiences.
+- Collaborating on real-world software projects.
 
-<p align="center">
-  <i>INFINITE-PY © 2026</i>
-</p>
+---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:5B21B6,100:05000D&height=120&section=footer" width="100%" />
-</p>
+## `06` // CONNECT WITH ME
+
+<div align="center">
+
+<a href="https://github.com/INFINITE-PY">
+  <img src="https://img.shields.io/badge/GITHUB-INFINITE--PY-0D1117?style=for-the-badge&logo=github&logoColor=00E5FF" />
+</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:5B2EFF,100:0D1117&height=120&section=footer" width="100%" />
+
+### `THINK. DESIGN. CODE. CREATE.`
+
+<sub>Building the future, one project at a time.</sub>
+
+</div>
