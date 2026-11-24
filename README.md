@@ -1,159 +1,357 @@
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:5B2EFF,100:00E5FF&height=200&section=header&text=S%20MUXAMMAD&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=PYTHON%20DEVELOPER%20%7C%20BACKEND%20ENGINEER%20%7C%20UI%2FUX%20DESIGNER&descSize=14&descAlignY=55" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24172E,25:4A233A,55:7D3946,80:B54A4A,100:D66358&height=280&section=header&text=S%20MUXAMMAD&fontSize=65&fontColor=FFF0E9&animation=fadeIn&fontAlignY=36&desc=PYTHON%20DEVELOPER%20%E2%80%A2%20BACKEND%20ENGINEER%20%E2%80%A2%20UI%2FUX%20DESIGNER&descSize=14&descAlignY=58&stroke=D66358&strokeWidth=1" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=Building+Digital+Experiences;Python+%26+Django+Developer;Backend+%7C+Frontend+%7C+UI%2FUX;Turning+Ideas+Into+Reality" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/PYTHON_DEVELOPER-0D1117?style=for-the-badge&logo=python&logoColor=00E5FF" />
-<img src="https://img.shields.io/badge/BACKEND_ENGINEER-0D1117?style=for-the-badge&logo=django&logoColor=BC13FE" />
-<img src="https://img.shields.io/badge/UI%2FUX_DESIGNER-0D1117?style=for-the-badge&logo=figma&logoColor=00E5FF" />
-
-</div>
-
----
-
-## `01` // SYSTEM PROFILE
-
-<div align="center">
-
-| SYSTEM | STATUS |
-|:---|:---|
-| **NAME** | S MUXAMMAD |
-| **EXPERIENCE** | 3 YEARS |
-| **ROLE** | PYTHON DEVELOPER |
-| **SPECIALIZATION** | BACKEND & WEB DEVELOPMENT |
-| **DESIGN** | UI/UX & PROTOTYPING |
-| **TEAMWORK** | ENABLED |
-
-</div>
-
-> Building digital products through code, creativity and technology.
-
-I develop web applications, backend systems, Telegram bots and modern user interfaces. I enjoy turning ideas into functional digital products and working with teams to build useful solutions.
-
----
-
-## `02` // TECH STACK
-
-### Backend Development
-
-<img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,sqlite" />
-
-### Frontend Development
-
-<img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js" />
-
-### Design & Tools
-
-<img src="https://skillicons.dev/icons?i=figma,git,github,vscode" />
-
-### Additional Skills
-
-![REST API](https://img.shields.io/badge/REST_API-0D1117?style=flat-square&logo=fastapi&logoColor=00E5FF)
-![SQL](https://img.shields.io/badge/SQL-0D1117?style=flat-square&logo=postgresql&logoColor=BC13FE)
-![Telegram Bots](https://img.shields.io/badge/Telegram_Bots-0D1117?style=flat-square&logo=telegram&logoColor=00E5FF)
-![aiogram](https://img.shields.io/badge/aiogram-0D1117?style=flat-square&logo=telegram&logoColor=BC13FE)
-![UI UX](https://img.shields.io/badge/UI%2FUX-0D1117?style=flat-square&logo=figma&logoColor=00E5FF)
-![Prototyping](https://img.shields.io/badge/Prototyping-0D1117?style=flat-square&logo=figma&logoColor=BC13FE)
-![Teamwork](https://img.shields.io/badge/Teamwork-0D1117?style=flat-square&logo=github&logoColor=00E5FF)
-
----
-
-## `03` // FEATURED PROJECTS
-
-### ◈ BACKEND & PYTHON PROJECTS
-
-| # | PROJECT | DESCRIPTION | TECHNOLOGIES |
-|:--:|:---|:---|:---|
-| 01 | **NeoBank** | Banking-themed web application | Python · Django |
-| 02 | **Careline** | Medical navigator and pharmacy catalog with doctor profiles, orders and AI-assisted specialty navigation | Python · Django · Gemini |
-| 03 | **Tg-bot** | Telegram bot project | Telegram Bot |
-| 04 | **Terra** | Restaurant catalog with menus, table reservations, interactive map and owner dashboard | Django · SQLite · Tailwind · Leaflet |
-| 05 | **CRM** | Customer relationship management web project | Python · Django |
-| 06 | **Mix-tj** | Django web application | Python · Django |
-
-<div align="center">
-
-[![NeoBank](https://img.shields.io/badge/VIEW_NEO_BANK-0D1117?style=for-the-badge&logo=github&logoColor=00E5FF)](https://github.com/INFINITE-PY/NeoBank)
-[![Careline](https://img.shields.io/badge/VIEW_CARELINE-0D1117?style=for-the-badge&logo=github&logoColor=BC13FE)](https://github.com/INFINITE-PY/Careline)
-[![Tg-bot](https://img.shields.io/badge/VIEW_TG--BOT-0D1117?style=for-the-badge&logo=telegram&logoColor=00E5FF)](https://github.com/INFINITE-PY/Tg-bot)
-
-[![Terra](https://img.shields.io/badge/VIEW_TERRA-0D1117?style=for-the-badge&logo=github&logoColor=00E5FF)](https://github.com/INFINITE-PY/projekt_terra_beta_version)
-[![CRM](https://img.shields.io/badge/VIEW_CRM-0D1117?style=for-the-badge&logo=github&logoColor=BC13FE)](https://github.com/INFINITE-PY/CRM)
-[![Mix-tj](https://img.shields.io/badge/VIEW_MIX--TJ-0D1117?style=for-the-badge&logo=github&logoColor=00E5FF)](https://github.com/INFINITE-PY/Mix-tj)
-
-</div>
-
-### ◈ FRONTEND & WEB PROJECTS
-
-| # | PROJECT | DESCRIPTION | LIVE DEMO |
-|:--:|:---|:---|:---:|
-| 07 | **CREATEX** | Construction company website with services, projects and contact sections | [LIVE](https://infinite-py.github.io/CREATEX/) |
-| 08 | **Catalyst Analytics** | Data analytics and AI consulting landing page | [LIVE](https://infinite-py.github.io/Catalyst-Analytics/) |
-| 09 | **NO-DOORS** | E-commerce storefront for mobile phone accessories and spare parts | [LIVE](https://infinite-py.github.io/NO-DOORS/) |
-| 10 | **OkeyPost** | Parcel delivery and international shopping website | [LIVE](https://infinite-py.github.io/OkeyPost/) |
-| 11 | **Xotel.ink** | Web project | [REPO](https://github.com/INFINITE-PY/Xotel.ink) |
-| 12 | **INNOMA.VC** | IT accelerator and international business landing page | [LIVE](https://infinite-py.github.io/INNOMA.VC/) |
-| 13 | **Cootage** | Hotel and nature retreat website with room listings and reservation information | [LIVE](https://infinite-py.github.io/Cootage/) |
-
-<div align="center">
-
-[![CREATEX](https://img.shields.io/badge/CREATEX-REPOSITORY-0D1117?style=for-the-badge&logo=github&logoColor=00E5FF)](https://github.com/INFINITE-PY/CREATEX)
-[![Catalyst](https://img.shields.io/badge/CATALYST-REPOSITORY-0D1117?style=for-the-badge&logo=github&logoColor=BC13FE)](https://github.com/INFINITE-PY/Catalyst-Analytics)
-[![NO-DOORS](https://img.shields.io/badge/NO--DOORS-REPOSITORY-0D1117?style=for-the-badge&logo=github&logoColor=00E5FF)](https://github.com/INFINITE-PY/NO-DOORS)
-
-[![OkeyPost](https://img.shields.io/badge/OKEYPOST-REPOSITORY-0D1117?style=for-the-badge&logo=github&logoColor=BC13FE)](https://github.com/INFINITE-PY/OkeyPost)
-[![Xotel](https://img.shields.io/badge/XOTEL.INK-REPOSITORY-0D1117?style=for-the-badge&logo=github&logoColor=00E5FF)](https://github.com/INFINITE-PY/Xotel.ink)
-[![INNOMA](https://img.shields.io/badge/INNOMA.VC-REPOSITORY-0D1117?style=for-the-badge&logo=github&logoColor=BC13FE)](https://github.com/INFINITE-PY/INNOMA.VC)
-[![Cootage](https://img.shields.io/badge/COOTAGE-REPOSITORY-0D1117?style=for-the-badge&logo=github&logoColor=00E5FF)](https://github.com/INFINITE-PY/Cootage)
-
-</div>
-
----
-
-## `04` // GITHUB ANALYTICS
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=INFINITE-PY&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=BC13FE&text_color=FFFFFF&count_private=true" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=INFINITE-PY&layout=compact&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=FFFFFF" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=900&color=D66358&center=true&vCenter=true&width=750&lines=Welcome+to+my+digital+universe;Building+beautiful+digital+experiences;Python+%7C+Django+%7C+REST+API;Designing.+Developing.+Creating.;Turning+ideas+into+reality." />
 
 <br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=INFINITE-PY&theme=transparent&hide_border=true&ring=BC13FE&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=FFFFFF&dates=888888" />
+<img src="https://img.shields.io/badge/EXPERIENCE-3%2B_YEARS-4A233A?style=for-the-badge&labelColor=24172E&color=B54A4A"/>
+<img src="https://img.shields.io/badge/BACKEND-PYTHON-D66358?style=for-the-badge&labelColor=24172E"/>
+<img src="https://img.shields.io/badge/DESIGN-UI%2FUX-4A233A?style=for-the-badge&labelColor=24172E&color=D66358"/>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=INFINITE-PY&style=for-the-badge&color=B54A4A&label=PROFILE+VISITORS"/>
 
 </div>
 
 ---
 
-## `05` // CURRENT FOCUS
+<div align="center">
 
-- Building scalable backend applications with Python and Django.
-- Developing REST API integrations.
-- Creating Telegram bots and automation tools.
-- Improving frontend development skills.
-- Designing clean and intuitive UI/UX experiences.
-- Collaborating on real-world software projects.
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:24172E,50:4A233A,100:B54A4A&height=3&section=header" width="100%"/>
+
+# ✦ ABOUT ME ✦
+
+*Code is my language. Design is my vision. Creation is my passion.*
+
+</div>
+
+I'm **S Muxammad**, a Python Developer focused on backend development, web applications, Telegram bots and modern UI/UX design.
+
+I enjoy creating digital products from the first idea to the final implementation. I have experience working independently and collaborating with development teams.
+
+<br/>
+
+<div align="center">
+
+| PROFILE | INFORMATION |
+|:---:|:---|
+| NAME | S Muxammad |
+| EXPERIENCE | 3+ Years |
+| SPECIALIZATION | Backend & Web Development |
+| MAIN LANGUAGE | Python |
+| FRAMEWORKS | Django · FastAPI |
+| DESIGN | UI/UX · Figma |
+| WORK STYLE | Teamwork & Independent Development |
+
+</div>
 
 ---
 
-## `06` // CONNECT WITH ME
+<div align="center">
+
+# ✦ TECHNOLOGY UNIVERSE ✦
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:4A233A,100:B54A4A&height=65&text=MY%20TECH%20STACK&fontColor=FFF0E9&fontSize=23&animation=fadeIn" width="85%"/>
+
+</div>
+
+### ⚙️ Backend Engineering
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,sqlite&theme=dark"/>
+</p>
+
+### 🎨 Frontend Development
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js&theme=dark"/>
+</p>
+
+### 🧩 Design & Development Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=figma,git,github,vscode&theme=dark"/>
+</p>
+
+### ✧ Additional Skills
 
 <div align="center">
+
+![REST API](https://img.shields.io/badge/REST_API-24172E?style=for-the-badge&logo=fastapi&logoColor=D66358)
+![SQL](https://img.shields.io/badge/SQL-24172E?style=for-the-badge&logo=postgresql&logoColor=D66358)
+![Telegram Bots](https://img.shields.io/badge/TELEGRAM_BOTS-24172E?style=for-the-badge&logo=telegram&logoColor=D66358)
+![aiogram](https://img.shields.io/badge/AIOGRAM-24172E?style=for-the-badge&logo=telegram&logoColor=B54A4A)
+![UI UX](https://img.shields.io/badge/UI%2FUX-24172E?style=for-the-badge&logo=figma&logoColor=D66358)
+![Prototyping](https://img.shields.io/badge/PROTOTYPING-24172E?style=for-the-badge&logo=figma&logoColor=B54A4A)
+![Teamwork](https://img.shields.io/badge/TEAMWORK-24172E?style=for-the-badge&logo=github&logoColor=D66358)
+
+</div>
+
+---
+
+<div align="center">
+
+# ✦ SELECTED PROJECTS ✦
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2200&pause=700&color=B54A4A&center=true&vCenter=true&width=600&lines=13+PROJECTS;Backend+%2B+Frontend;Ideas+turned+into+digital+products" />
+
+</div>
+
+## ◈ 01 — BACKEND & PYTHON
+
+<table>
+<tr>
+<td width="50%">
+
+### 🏦 NeoBank
+
+A banking-themed web application.
+
+**Stack:** Python · Django
+
+<a href="https://github.com/INFINITE-PY/NeoBank">
+<img src="https://img.shields.io/badge/EXPLORE_PROJECT-4A233A?style=for-the-badge&logo=github&logoColor=FFF0E9"/>
+</a>
+
+</td>
+<td width="50%">
+
+### 🩺 Careline
+
+Medical navigator and pharmacy catalog with doctor profiles, orders and AI-assisted specialty navigation.
+
+**Stack:** Python · Django · Gemini
+
+<a href="https://github.com/INFINITE-PY/Careline">
+<img src="https://img.shields.io/badge/EXPLORE_PROJECT-4A233A?style=for-the-badge&logo=github&logoColor=FFF0E9"/>
+</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🤖 Tg-bot
+
+Telegram bot development project.
+
+**Category:** Telegram Automation
+
+<a href="https://github.com/INFINITE-PY/Tg-bot">
+<img src="https://img.shields.io/badge/EXPLORE_PROJECT-4A233A?style=for-the-badge&logo=telegram&logoColor=FFF0E9"/>
+</a>
+
+</td>
+<td width="50%">
+
+### 🍽️ Terra
+
+Restaurant catalog with menus, table reservations, interactive maps and an owner dashboard.
+
+**Stack:** Django · SQLite · Tailwind CSS · Leaflet
+
+<a href="https://github.com/INFINITE-PY/projekt_terra_beta_version">
+<img src="https://img.shields.io/badge/EXPLORE_PROJECT-4A233A?style=for-the-badge&logo=github&logoColor=FFF0E9"/>
+</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 📊 CRM
+
+Customer relationship management web project.
+
+**Stack:** Python · Django
+
+<a href="https://github.com/INFINITE-PY/CRM">
+<img src="https://img.shields.io/badge/EXPLORE_PROJECT-4A233A?style=for-the-badge&logo=github&logoColor=FFF0E9"/>
+</a>
+
+</td>
+<td width="50%">
+
+### 🌐 Mix-tj
+
+Django-based web application.
+
+**Stack:** Python · Django
+
+<a href="https://github.com/INFINITE-PY/Mix-tj">
+<img src="https://img.shields.io/badge/EXPLORE_PROJECT-4A233A?style=for-the-badge&logo=github&logoColor=FFF0E9"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+## ◈ 02 — FRONTEND & WEB DESIGN
+
+<table>
+<tr>
+<td width="50%">
+
+### ✨ CREATEX
+
+Frontend website project.
+
+<a href="https://github.com/INFINITE-PY/CREATEX">
+<img src="https://img.shields.io/badge/SOURCE_CODE-4A233A?style=for-the-badge&logo=github&logoColor=FFF0E9"/>
+</a>
+<a href="https://infinite-py.github.io/CREATEX/">
+<img src="https://img.shields.io/badge/LIVE_DEMO-B54A4A?style=for-the-badge&logo=googlechrome&logoColor=FFF0E9"/>
+</a>
+
+</td>
+<td width="50%">
+
+### 📈 Catalyst Analytics
+
+Data analytics and AI consulting landing page.
+
+<a href="https://github.com/INFINITE-PY/Catalyst-Analytics">
+<img src="https://img.shields.io/badge/SOURCE_CODE-4A233A?style=for-the-badge&logo=github&logoColor=FFF0E9"/>
+</a>
+<a href="https://infinite-py.github.io/Catalyst-Analytics/">
+<img src="https://img.shields.io/badge/LIVE_DEMO-B54A4A?style=for-the-badge&logo=googlechrome&logoColor=FFF0E9"/>
+</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🚪 NO-DOORS
+
+Frontend web project.
+
+<a href="https://github.com/INFINITE-PY/NO-DOORS">
+<img src="https://img.shields.io/badge/SOURCE_CODE-4A233A?style=for-the-badge&logo=github&logoColor=FFF0E9"/>
+</a>
+<a href="https://infinite-py.github.io/NO-DOORS/">
+<img src="https://img.shields.io/badge/LIVE_DEMO-B54A4A?style=for-the-badge&logo=googlechrome&logoColor=FFF0E9"/>
+</a>
+
+</td>
+<td width="50%">
+
+### 📦 OkeyPost
+
+Frontend web application.
+
+<a href="https://github.com/INFINITE-PY/OkeyPost">
+<img src="https://img.shields.io/badge/SOURCE_CODE-4A233A?style=for-the-badge&logo=github&logoColor=FFF0E9"/>
+</a>
+<a href="https://infinite-py.github.io/OkeyPost/">
+<img src="https://img.shields.io/badge/LIVE_DEMO-B54A4A?style=for-the-badge&logo=googlechrome&logoColor=FFF0E9"/>
+</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🏨 Xotel.ink
+
+Web development project.
+
+<a href="https://github.com/INFINITE-PY/Xotel.ink">
+<img src="https://img.shields.io/badge/EXPLORE_PROJECT-4A233A?style=for-the-badge&logo=github&logoColor=FFF0E9"/>
+</a>
+
+</td>
+<td width="50%">
+
+### 🚀 INNOMA.VC
+
+IT accelerator and business landing page.
+
+**Stack:** HTML · CSS · SCSS · JavaScript
+
+<a href="https://github.com/INFINITE-PY/INNOMA.VC">
+<img src="https://img.shields.io/badge/SOURCE_CODE-4A233A?style=for-the-badge&logo=github&logoColor=FFF0E9"/>
+</a>
+<a href="https://infinite-py.github.io/INNOMA.VC/">
+<img src="https://img.shields.io/badge/LIVE_DEMO-B54A4A?style=for-the-badge&logo=googlechrome&logoColor=FFF0E9"/>
+</a>
+
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+
+### 🌄 Cootage
+
+Nature and travel-themed web project.
+
+<a href="https://github.com/INFINITE-PY/Cootage">
+<img src="https://img.shields.io/badge/SOURCE_CODE-4A233A?style=for-the-badge&logo=github&logoColor=FFF0E9"/>
+</a>
+<a href="https://infinite-py.github.io/Cootage/">
+<img src="https://img.shields.io/badge/LIVE_DEMO-B54A4A?style=for-the-badge&logo=googlechrome&logoColor=FFF0E9"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+# ✦ GITHUB ACTIVITY ✦
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=2500&pause=1000&color=D66358&center=true&vCenter=true&width=500&lines=Every+commit+is+progress;Keep+building+%E2%80%A2+Keep+learning" />
+
+<br/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=INFINITE-PY&show_icons=true&hide_border=true&bg_color=24172E&title_color=D66358&icon_color=B54A4A&text_color=F4D6CF&ring_color=D66358"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=INFINITE-PY&layout=compact&hide_border=true&bg_color=24172E&title_color=D66358&text_color=F4D6CF"/>
+
+<br/><br/>
+
+<img width="75%" src="https://streak-stats.demolab.com?user=INFINITE-PY&background=24172E&hide_border=true&ring=D66358&fire=B54A4A&currStreakLabel=D66358&sideLabels=F4D6CF&currStreakNum=FFF0E9&sideNums=FFF0E9&dates=C49A9A"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# ✦ CURRENT FOCUS ✦
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2600&pause=900&color=B54A4A&center=true&vCenter=true&width=650&lines=Building+scalable+backend+systems;Developing+REST+API+integrations;Creating+Telegram+bots;Exploring+modern+UI%2FUX;Turning+complex+ideas+into+simple+products" />
+
+</div>
+
+- Advanced Python and Django development.
+- REST API integrations and backend architecture.
+- Telegram bots and automation.
+- Responsive frontend development.
+- UI/UX design and prototyping.
+- Collaborative software development.
+
+---
+
+<div align="center">
+
+# ✦ LET'S CONNECT ✦
 
 <a href="https://github.com/INFINITE-PY">
-  <img src="https://img.shields.io/badge/GITHUB-INFINITE--PY-0D1117?style=for-the-badge&logo=github&logoColor=00E5FF" />
+<img src="https://img.shields.io/badge/GITHUB-INFINITE--PY-24172E?style=for-the-badge&logo=github&logoColor=D66358"/>
 </a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:5B2EFF,100:0D1117&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24172E,30:4A233A,65:B54A4A,100:D66358&height=180&section=footer&text=THINK.%20DESIGN.%20CODE.%20CREATE.&fontSize=27&fontColor=FFF0E9&animation=fadeIn&fontAlignY=65"/>
 
-### `THINK. DESIGN. CODE. CREATE.`
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=3000&pause=1000&color=D66358&center=true&vCenter=true&width=500&lines=Building+the+future%2C+one+project+at+a+time." />
 
-<sub>Building the future, one project at a time.</sub>
+<sub>DESIGNED WITH PASSION · POWERED BY CODE</sub>
 
 </div>
